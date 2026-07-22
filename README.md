@@ -58,8 +58,11 @@ estou cursando o Python Impressionador da Hashtag Treinamentos.
 />
 <br clear="left"/>
 
-*Em busca de vagas remotas para Jovem Aprendiz ou Estágio*
+### 📊 Minhas Estatísticas
 
+
+*Em busca de vagas remotas para Jovem Aprendiz ou Estágio*
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jgabryelp&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **jgabryelp/jgabryelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
