@@ -59,10 +59,26 @@ estou cursando o Python Impressionador da Hashtag Treinamentos.
 <br clear="left"/>
 
 ### 📊 Minhas Estatísticas
+<img           
+  align="left"
+  alt="Estatísticas GitHub"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-stats-extended.vercel.app/api?username=jgabryelp&theme=tokyonight"
+/>
 
+<img           
+  align="right up"
+  alt="Linguagens"
+  height="200"
+  style="padding-right: 10px;"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=jgabryelp&layout=compact&theme=tokyonight&custom_title=Linguagens"
+/>
+<br/><br/><br/><br/><br/>
 
 *Em busca de vagas remotas para Jovem Aprendiz ou Estágio*
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jgabryelp&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
+
+
 <!--
 **jgabryelp/jgabryelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
