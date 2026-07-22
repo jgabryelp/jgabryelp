@@ -6,7 +6,7 @@ Atualmente estou desenvolvendo projetos práticos pro GitHub e também
 estou cursando o Python Impressionador da Hashtag Treinamentos.
 
 ### 📞 Contatos
-🖥️ LinkedIn: "[João Gabryel](https://www.linkedin.com/in/jo%C3%A3o-gabryelc/)"
+🖥️ LinkedIn: [João Gabryel](https://www.linkedin.com/in/jo%C3%A3o-gabryelc/)
 
 ✉️ Email: joaogabryelcaldeirap@gmail.com
 
