@@ -1,6 +1,6 @@
 # 🐍 João Gabryel
 👋 Me chamo João Gabryel, estou desenvolvendo minhas habilidades 
-em Python, Análise de Dados, Automações, Git e GitHub e Inglês.
+em Python, Análise de Dados, Automações, Git e Inglês.
 
 Atualmente estou desenvolvendo projetos práticos pro GitHub e também
 estou cursando o Python Impressionador da Hashtag Treinamentos.
