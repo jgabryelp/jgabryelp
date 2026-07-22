@@ -5,6 +5,12 @@ em Python, Análise de Dados, Automações, Git e GitHub e Inglês.
 Atualmente estou desenvolvendo projetos práticos pro GitHub e também
 estou cursando o Python Impressionador da Hashtag Treinamentos.
 
+# 📞 Contatos
+🖥️ LinkedIn: "[João Gabryel](https://www.linkedin.com/in/jo%C3%A3o-gabryelc/)"
+✉️ Email: joaogabryelcaldeirap@gmail.com
+
+# 👨‍💻 Habilidades e Tecnologias
+
 *Em busca de vagas remotas para Jovem Aprendiz ou Estágio*
 
 <!--
