@@ -74,7 +74,7 @@ estou cursando o Python Impressionador da Hashtag Treinamentos.
   style="padding-right: 10px;"
   src="https://github-stats-extended.vercel.app/api/top-langs/?username=jgabryelp&layout=compact&theme=tokyonight&custom_title=Linguagens"
 />
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 *Em busca de vagas remotas para Jovem Aprendiz ou Estágio*
 
