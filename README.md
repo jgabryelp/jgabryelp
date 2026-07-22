@@ -1,4 +1,4 @@
-#🐍 João Gabryel
+# 🐍 João Gabryel
 Me chamo João Gabryel, estou desenvolvendo minhas habilidades 
 em Python, Análise de Dados, Automações, Git e GitHub e Inglês.
 <!--
