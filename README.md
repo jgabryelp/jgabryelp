@@ -1,6 +1,12 @@
 # 🐍 João Gabryel
-Me chamo João Gabryel, estou desenvolvendo minhas habilidades 
+👋 Me chamo João Gabryel, estou desenvolvendo minhas habilidades 
 em Python, Análise de Dados, Automações, Git e GitHub e Inglês.
+
+Atualmente estou desenvolvendo projetos práticos pro GitHub e também
+estou cursando o Python Impressionador da Hashtag Treinamentos.
+
+*Em busca de vagas remotas para Jovem Aprendiz ou Estágio*
+
 <!--
 **jgabryelp/jgabryelp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
