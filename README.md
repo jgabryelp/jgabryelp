@@ -58,6 +58,11 @@ estou cursando o Python Impressionador da Hashtag Treinamentos.
 />
 <br clear="left"/>
 
+### 🚀 Meus Projetos
+- 📈[Análise dos dados de um E-commerce](https://github.com/jgabryelp/projeto-analise-de-dados-ecommerce-)
+  <br/>
+Tratamento de dados, criação e manipulação de tabelas com Pandas, gráficos com Matplotlib e a geração de um relatório que se atualiza automaticamente conforme a base de dados.
+
 ### 📊 Minhas Estatísticas
 <img           
   align="left"
