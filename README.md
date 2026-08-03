@@ -63,6 +63,11 @@ estou cursando o Python Impressionador da Hashtag Treinamentos.
   <br/>
 Tratamento de dados, criação e manipulação de tabelas com Pandas, gráficos com Matplotlib e a geração de um relatório que se atualiza automaticamente conforme a base de dados.
 
+- 🤖[Automação de Análise de dados, Relatório e envio de Email](https://github.com/jgabryelp/projeto-automacao-analise) :
+  <br/>
+Automatiza os processos de: download de uma base de dados, análise dos dados dessa base, geração de pdf, geração de gráficos e envio de email.
+<br/>
+
 ### 📊 Minhas Estatísticas
 <img           
   align="left"
