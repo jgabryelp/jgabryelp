@@ -61,6 +61,15 @@ estou cursando o Python Impressionador da Hashtag Treinamentos.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 />
 
+<img           
+  align="left"
+  alt="Matplotlib"
+  title="Matplotlib"
+  width="45px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+/>
+
 <br clear="left"/>
 
 <br/>
