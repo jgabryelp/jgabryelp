@@ -1,6 +1,6 @@
 # 🐍 João Gabryel
 👋 Me chamo João Gabryel, estou desenvolvendo minhas habilidades 
-em Python, Análise de Dados, Automações, Git e Inglês.
+em Python, SQL, Análises de Dados, Automações e Inglês.
 
 Atualmente estou desenvolvendo projetos práticos pro GitHub e também
 estou cursando o Python Impressionador da Hashtag Treinamentos.
@@ -68,6 +68,33 @@ estou cursando o Python Impressionador da Hashtag Treinamentos.
   width="45px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
+/>
+
+<img           
+  align="left"
+  alt="Selenium"
+  title="Selenium"
+  width="45px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
+/>
+
+<img           
+  align="left"
+  alt="SQL"
+  title="SQL"
+  width="45px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img           
+  align="left"
+  alt="Plotly"
+  title="Plotly"
+  width="45px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
 />
 
 <br clear="left"/>
