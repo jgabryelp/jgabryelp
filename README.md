@@ -130,7 +130,7 @@ Automatiza os processos de: download de uma base de dados, análise dos dados de
 />
 <br/><br/><br/><br/><br/><br/>
 
-*Em busca de vagas remotas para Jovem Aprendiz ou Estágio*
+*Em busca de vagas para Jovem Aprendiz ou Estágio*
 
 
 <!--
