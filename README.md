@@ -110,6 +110,10 @@ Tratamento de dados, criação e manipulação de tabelas com Pandas, gráficos 
 - 🤖[Automação de Análise de dados, Relatório e envio de Email](https://github.com/jgabryelp/projeto-automacao-analise) :
   <br/>
 Automatiza os processos de: download de uma base de dados, análise dos dados dessa base, geração de pdf, geração de gráficos e envio de email.
+
+- 🐬[Dashboard integrando Python e SQL](https://github.com/jgabryelp/analise-integracao-python-mysql) :
+  <br/>
+Um dashboard interativo com análises de uma base de dados com mais de 100 mil músicas do Spotify. A aplicação completa integra um servidor MySQL com o dashboard dinâmico feito utilizando Python.
 <br/>
 
 ### 📊 Minhas Estatísticas
@@ -130,7 +134,7 @@ Automatiza os processos de: download de uma base de dados, análise dos dados de
 />
 <br/><br/><br/><br/><br/><br/>
 
-*Em busca de vagas para Jovem Aprendiz ou Estágio*
+*Em busca de vagas para Jovem Aprendiz*
 
 
 <!--
